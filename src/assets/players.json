@@ -1,0 +1,153 @@
+[
+    {
+      "playerId": "1",
+      "name": "Breet Lee",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/xMxGKKr/breet-lee.jpg",
+      "role": "Bowler",
+      "batting_type": "Right-hand bat",
+      "bowling_type": "Right-arm Fast",
+      "bidding_price": "2.4 million USD"
+    },
+    {
+      "playerId": "2",
+      "name": "Adam Gilchrist",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/Qr1ZBBF/gilchrist.jpg",
+      "role": "Wicketkeeper-Batsman",
+      "batting_type": "Left-hand bat",
+      "bowling_type": "None",
+      "bidding_price": "1.8 million USD"
+    },
+    {
+      "playerId": "3",
+      "name": "Imran Khan",
+      "country": "Pakistan",
+      "image": "https://i.ibb.co.com/BHDRdYT/imran-khan.jpg",
+      "role": "All-rounder",
+      "batting_type": "Right-hand bat",
+      "bowling_type": "Right-arm fast-medium",
+      "bidding_price": "2.2 million USD"
+    },
+    {
+      "playerId": "4",
+      "name": "Mahela Jayavardana",
+      "country": "Srilanka",
+      "image": "https://i.ibb.co.com/HTd1czL/jawavardane.jpg",
+      "role": "Bowler",
+      "batting_type": "Right-hand bat",
+      "bowling_type": "None",
+      "bidding_price": "1.9 million USD"
+    },
+    {
+      "playerId": "5",
+      "name": "Lasith Malinga",
+      "country": "Srilanka",
+      "image": "https://i.ibb.co.com/mq5w0ns/malinga.jpg",
+      "role": "Bowler",
+      "batting_type": "Right-hand bat",
+      "bowling_type": "Right-arm fast-medium",
+      "bidding_price": "2.5 million USD"
+    },
+    {
+      "playerId": "6",
+      "name": "Muthia Muralidharon",
+      "country": "Srilanka",
+      "image": "https://i.ibb.co.com/SvmC7dc/muralidharon.jpg",
+      "role": "Bowler",
+      "batting_type": "Right-hand bat",
+      "bowling_type": "Right-arm legbreak",
+      "bidding_price": "1.7 million USD"
+    },
+    {
+      "playerId": "7",
+      "name": "Rickey Ponting",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/r254HG5/ponting.jpg",
+      "role": "Batsman",
+      "batting_type": "Right-hand bat",
+      "bowling_type": "None",
+      "bidding_price": "1.6 million USD"
+    },
+    {
+      "playerId": "8",
+      "name": "Sachin Tendulkar",
+      "country": "India",
+      "image": "https://i.ibb.co.com/b6fRHjz/tendulkar.jpg",
+      "role": "Batsman",
+      "batting_type": "Right-hand bat",
+      "bowling_type": "Leg-Spinner",
+      "bidding_price": "2.0 million USD"
+    },
+    {
+      "playerId": "9",
+      "name": "Wasim Akram",
+      "country": "Pakistan",
+      "image": "https://i.ibb.co.com/yhtvVp5/wasim-akram.jpg",
+      "role": "Bowler",
+      "batting_type": "Right-hand bat",
+      "bowling_type": "Right-arm fast-medium",
+      "bidding_price": "2.1 million USD"
+    },
+    {
+      "playerId": "10",
+      "name": "Andre Russell",
+      "country": "West Indies",
+      "image": "https://i.ibb.co.com/8dmnDzt/Andre-Russell.jpg",
+      "role": "All-rounder",
+      "batting_type": "Right-hand bat",
+      "bowling_type": "Right-arm fast",
+      "bidding_price": "2.3 million USD"
+    },
+    {
+      "playerId": "11",
+      "name": "Kagiso Rabada",
+      "country": "South Africa",
+      "image": "https://i.ibb.co.com/zfcr8GX/Kagiso-Rabada.jpg",
+      "role": "Bowler",
+      "batting_type": "Left-hand bat",
+      "bowling_type": "Right-arm fast",
+      "bidding_price": "1.8 million USD"
+    },
+    {
+      "playerId": "12",
+      "name": "Mahmudullah Riyad",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/ZGgCyqc/Mahmudullah-Riyad.jpg",
+      "role": "All-rounder",
+      "batting_type": "Right-hand bat",
+      "bowling_type": "Right-arm offbreak",
+      "bidding_price": "2.1 million USD"
+    },
+    {
+      "playerId": "13",
+      "name": "Quinton de Kock",
+      "country": "South Africa",
+      "image": "https://i.ibb.co.com/g68pR87/Quinton-de-Kock.jpg",
+      "role": "Wicketkeeper-Batsman",
+      "batting_type": "Left-hand bat",
+      "bowling_type": "Right-arm offbreak",
+      "bidding_price": "1.7 million USD"
+    },
+    {
+      "playerId": "14",
+      "name": "Pat Cummins",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/gtgBdxK/Pat-Cummins.jpg",
+      "role": "Bowler",
+      "batting_type": "Right-hand bat",
+      "bowling_type": "Right-arm fast",
+      "bidding_price": "2.0 million USD"
+    },
+    {
+      "playerId": "15",
+      "name": "Joe Root",
+      "country": "England",
+      "image": "https://i.ibb.co.com/PM5LHyz/Joe-Root.jpg",
+      "role": "Batsman",
+      "batting_type": "Right-hand bat",
+      "bowling_type": "Right-arm offbreak",
+      "bidding_price": "1.9 million USD"
+    }
+  ]
+  
